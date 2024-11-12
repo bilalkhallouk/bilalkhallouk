@@ -5,9 +5,7 @@
 	<h3 align="center">A passionate about the world of IT, with great curiosity, analytical and collaborative spirit</h3>
 	<br>
 	<img align="right" height="190" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif"></img>
-	- 🧑‍💻 Coding <bold>is my passion.</bold><br>
-	- 📫 The best way to reach me <bold>is to send me an email.</bold><br>
-	- 🕵️‍♀️ I like doing <bold>quality work</bold><br>
+	- 💻 Coding <bold></bold><br>
 	- ⚡Let’s make Data Useful, <bold>Usable & Used.</bold><br>
 	<h3 align="left">Connect with me:</h3>
 	<p align="left">
