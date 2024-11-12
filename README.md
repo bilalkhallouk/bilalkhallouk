@@ -2,7 +2,7 @@
 <body>
 <!--<h3 align="center">Hi there,</h3><br>
 	<h2 align="center">My name is Bilal KHALLOUK</h2>!-->
-	<h3 align="center">A passionate about the world of IT and AI, with great curiosity, analytical and collaborative spirit</h3>
+	<h3 align="center">A passionate about the world of IT, with great curiosity, analytical and collaborative spirit</h3>
 	<br>
 	<img align="right" height="190" width="350" src="https://media.tenor.com/NOYF3f82b_gAAAAM/programmer.gif"></img>
 	- 🧑‍💻 Coding <bold>is my passion.</bold><br>
